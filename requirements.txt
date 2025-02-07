@@ -1,4 +1,5 @@
 lsst-felis @ git+http://github.com/lsst/felis.git@main
+sdm-tools @ git+http://github.com/lsst-dm/sdm_tools.git@tickets/DM-41290
 
 click
 pyyaml
